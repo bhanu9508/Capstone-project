@@ -21,8 +21,7 @@ This project is part of a group assignment under the IIT Patna Hybrid Degree CSD
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/bhanu9508/AI-powered-_Technical_analysis-_stock_dashboard-_in_python.git
-   cd AI-powered-_Technical_analysis-_stock_dashboard-_in_python
+   git clone https://github.com/bhanu9508/Capstone-project.git
 
 pip install -r requirement.txt
 
